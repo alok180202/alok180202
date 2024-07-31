@@ -2,8 +2,7 @@
 - 🌱 I’m currently studying in RNS Institute of Technology, Banglore.
 - 💞️ I’m looking to collaborate on python, web development projects.
 - 📫 How to reach me ...  alokanand180202@gmail.com
-- Skills
--   Python
+- Skills Python
     Database Management Systems
     HTML
     CSS
