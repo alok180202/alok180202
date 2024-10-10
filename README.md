@@ -49,6 +49,9 @@ I am passionate about learning, collaborating on meaningful projects, and contri
 - **Topper** in 21PSP13 (Problem Solving Through Programming) during 1st semester VTU exams (March 2022).
 - Completed **NPTEL Certification** with **Elite status** in "Problem Solving Through Programming in C" (Top 5%).
 
+## NPTEL Certification Repository
+You can find my NPTEL certification for **Problem Solving through Programming in C** in this GitHub repository: [NPTEL Certification Repository](https://github.com/alok180202/NPTEL.git)
+
 ## Interests
 - Motorsports
 - Badminton
