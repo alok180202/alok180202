@@ -66,8 +66,7 @@ You can find my NPTEL certification for **Problem Solving through Programming in
 - 🔗 LinkedIn: [Alok Anand](https://www.linkedin.com/in/alokanand180202)
 - 📂 GitHub: [alok180202](https://github.com/alok180202/alok180202)
 
-## GitHub Stats
-![Alok's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alok180202&show_icons=true&theme=radical)
+
 
 <!---
 alok180202/alok180202 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
